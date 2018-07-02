@@ -1,3 +1,15 @@
 numero = int (input ("Ingrese primer valor:"))
 numero2 = int (input ("Ingrese segundo valor:"))
 numero3 = int (input ("Ingrese tercer valor: "))
+if numero<numero2<numero3:
+  print(numero)
+if numero<numero3<numero2:
+  print(numero)
+if numero2<numero3<numero:
+  print(numero2)
+if numero2<numero<numero3:
+  print(numero2)
+if numero3<numero<numero2:
+  print(numero3)
+if numero3<numero2<numero:
+  print(numero3)
