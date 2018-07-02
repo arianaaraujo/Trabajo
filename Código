@@ -1,2 +1,3 @@
 numero = int (input ("Ingrese primer valor:"))
-numero2 =int(
+numero2 = int (input ("Ingrese segundo valor:"))
+numero3 = int (input ("Ingrese tercer valor: "))
