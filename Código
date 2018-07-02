@@ -1,1 +1,2 @@
-numero=int(input("Ingrese primer valor: "))
+numero = int (input ("Ingrese primer valor:"))
+numero2 =int(
